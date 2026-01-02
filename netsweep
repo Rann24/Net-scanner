@@ -1,4 +1,4 @@
-!/bin/bash
+#!/bin/bash
 
 # 1. Ask the user for the subnet (first 3 parts of IP)
 
